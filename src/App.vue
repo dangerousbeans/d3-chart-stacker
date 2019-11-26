@@ -20,7 +20,6 @@
 import Chart from './components/Chart.vue'
 import Layers from './components/Layers.vue'
 
-
 export default {
   name: 'app',
   components: {

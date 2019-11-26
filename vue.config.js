@@ -7,6 +7,4 @@ module.exports = {
       process.env.NODE_ENV === 'production'
         ? '/d3-chart-stacker/'
         : '/'
-    
-  
   }
